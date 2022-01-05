@@ -136,7 +136,7 @@ address {
 }
 .contacts__item:first-child::before {
     content: '';
-    background-image: url(/image/home-location.svg);
+    background-image: url(./image/home-location.svg);
     position: absolute;
     top: 3px;
     left: 0px;
@@ -146,7 +146,7 @@ address {
 }
 .contacts__item:nth-child(2)::before {
     content: '';
-    background-image: url(/image/apple-iphone-app.svg);
+    background-image: url(./image/apple-iphone-app.svg);
     position: absolute;
     top: 3px;
     left: 0px;
@@ -156,7 +156,7 @@ address {
 }
 .contacts__item:nth-child(3)::before {
     content: '';
-    background-image: url(/image/github.svg);
+    background-image: url(./image/github.svg);
     position: absolute;
     top: 3px;
     left: 0px;
@@ -179,7 +179,7 @@ address {
 }
 .skills__item::before {
     content: '';
-    background-image: url(/image/check-mark-circle.svg);
+    background-image: url(./image/check-mark-circle.svg);
     position: absolute;
     top: 5px;
     left: 0px;
